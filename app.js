@@ -11,7 +11,7 @@ function updateClock(){
 
     // Akash 
 // hello
-    
+    // helo2
     hrs=hrs<10?"0"+hrs:hrs;
     min=min<10?"0"+min:min;
     sec=sec<10?"0"+sec:sec;
