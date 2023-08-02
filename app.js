@@ -8,6 +8,10 @@ function updateClock(){
     let min=new Date().getMinutes();
     let sec=new Date().getSeconds();
 
+
+    // Akash 
+// hello
+    
     hrs=hrs<10?"0"+hrs:hrs;
     min=min<10?"0"+min:min;
     sec=sec<10?"0"+sec:sec;
